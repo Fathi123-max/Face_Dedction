@@ -1,8 +1,12 @@
 
 #Face Expression Detector Flutter App
+
+
 This is a mobile app built using Flutter that uses Face recognition technology to detect whether a person is smiling or has a sad expression on their face. The app can take input from a live camera feed    .
 
 #Getting Started
+
+
 To get started with the app, you will need to have Flutter installed on your machine. Once you have Flutter installed, clone the repository to your local machine and open the project in your preferred code editor.
 
 Next, you will need to install the project dependencies. You can do this by running the following command in your terminal:
