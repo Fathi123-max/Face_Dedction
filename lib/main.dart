@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'face_dedector/face_dedetor.dart';
+import 'face_detection/face_dedetor.dart';
 
 void main() => runApp(const MyApp());
 
